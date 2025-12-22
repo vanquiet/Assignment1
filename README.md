@@ -1,6 +1,6 @@
 A. Project Overview
 
-This project is a simple Java program that demonstrates basic Object-Oriented Programming (OOP) concepts.
+This project is a simple Java program that demonstrates basic Object-Oriented Programming concepts.
 The program models students and a course, updates student data, and calculates statistics such as average GPA and total credits.
 The project uses:
 classes and objects, constructors, arrays, methods, encapsulation, classic for loops
