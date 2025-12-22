@@ -24,7 +24,7 @@ Run: java Main
 
 D. Screenshots
 
-<img width="2560" height="1600" alt="2025-12-21_22-04-50" src="https://github.com/user-attachments/assets/5f92f039-ab8e-444a-84c1-8ba0c71b958f" />
+![Uploading 2025-12-21_22-04-50.png…]()
 
 
 E. Reflection
